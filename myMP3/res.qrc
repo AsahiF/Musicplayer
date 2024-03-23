@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.png</file>
+        <file>images/loop.png</file>
+        <file>images/lyrics.png</file>
+        <file>images/min.png</file>
+        <file>images/oneLoop.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/play-next.png</file>
+        <file>images/play-previous.png</file>
+        <file>images/random.png</file>
+        <file>images/sequence.png</file>
+        <file>images/sound-off.png</file>
+        <file>images/sound-on.png</file>
+        <file>images/about.png</file>
+        <file>images/minsize.png</file>
+        <file>images/search.png</file>
+        <file>images/close.png</file>
+        <file>images/searchClean.png</file>
+        <file>images/clean.png</file>
+        <file>images/playlist.png</file>
+        <file>images/playList.png</file>
+        <file>images/downLoad.png</file>
+        <file>images/about_back.png</file>
+        <file>images/111.png</file>
+        <file>images/icon.png</file>
+        <file>images/favicon.ico</file>
+    </qresource>
+</RCC>
